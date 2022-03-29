@@ -1,3 +1,4 @@
+/* istanbul ignore file: IntersectionObserver isn't implemented in jsdom */
 import React, {
   useEffect,
   useRef,
